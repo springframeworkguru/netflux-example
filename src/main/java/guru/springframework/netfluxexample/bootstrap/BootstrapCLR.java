@@ -2,7 +2,6 @@ package guru.springframework.netfluxexample.bootstrap;
 
 import guru.springframework.netfluxexample.domain.Movie;
 import guru.springframework.netfluxexample.repositories.MovieRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import reactor.core.publisher.Flux;
